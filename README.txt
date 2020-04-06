@@ -1,0 +1,1 @@
+Hay cuatro tipos de movimientos en este laboratorio, la cápsula oscila de arriba para abajo, la familia (cuadro, círuclo y cilindro) gira al rededor de su propio eje, la esfera se mueve al rededor de "x", "y", y "z". Y por último, el cuadro se agranda y se hace pequeño al presionar la tecla "x" y "z". 
